@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T07:29:41.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="WcuaOSYBOHUstnL82d31" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T08:21:57.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="i0NC2bodcaiYdoqG5e87" version="17.2.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="782" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1043" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,6 +350,9 @@
         </mxCell>
         <mxCell id="XHKjAuYgsTR4yrQtNi2h-104" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XHKjAuYgsTR4yrQtNi2h-105" value="Q2&lt;br&gt;&lt;div&gt;&lt;span&gt;INSERT INTO EMPLOYEE VALUES (&#39;Robert&#39;, &#39;F&#39;, &#39;Scott&#39;, &#39;943775543&#39;, &#39;1942-06-21&#39;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;&#39;2365 Newcastle Rd, Bellaire, TX&#39;, ‘M’, 58000, &#39;888665555&#39;, 1)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;INSERT INTO PROJECT VALUES (&lt;/span&gt;&lt;/div&gt;&#39;ProductA&#39;, 4, &#39;Bellaire&#39;, 2&lt;span&gt;)&lt;br&gt;&lt;/span&gt;&lt;br&gt;INSERT INTO DEPENDENT VALUES(&#39;333445555&#39;, &#39;Joy&#39;, ‘F’, ‘1958-05-03’, &#39;SPOUSE&#39;)&lt;br&gt;&lt;br&gt;DELETE FROM WORKS_ON WHERE&amp;nbsp; Essn= &#39;333445555&#39;&lt;br&gt;&lt;br&gt;DELETE FROM PROJECT WHERE&amp;nbsp; Pname= &#39;ProductX&#39;&lt;br&gt;&lt;br&gt;UPDATE&amp;nbsp; DEPARTMENT SET&amp;nbsp;Mgr_ssn = &#39;123456789&#39;,&amp;nbsp; Mgr_start_date = &quot;1998-10-01&quot; &lt;br&gt;WHERE&amp;nbsp;Dnumber=5&lt;br&gt;&lt;br&gt;UPDATE&amp;nbsp;EMPLOYEE SET&amp;nbsp;Super_ssn = &#39;123456789&#39; WHERE Ssn= &#39;333445555&#39;&lt;br&gt;&lt;br&gt;DELETE FROM EMPLOYEE WHERE&amp;nbsp;Ssn= &#39;123456789&#39;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="480" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
